@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The late proceedings of the Scottish army: as also the taking of Cannon Froome. Certified by an expresse from his Excellencies quarters the Earle of Leven, Lord Generall. Dated at Ludbury the 23. of Iuly 1645. Together with other letters from the Kings quarters to the generall and lieutenant-generall, and answers thereunto. Published by authority.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88766</idno><idno type="EEBO-CITATION">99860981</idno>
+  <idno type="VID">113108</idno>
+  <idno type="EEBO-PROQUEST">2240887733</idno>
+  
+            <idno type="STC">Wing L557</idno>
+            <idno type="STC">Thomason E294_2</idno>
+            <idno type="STC">ESTC R200176</idno>
+            <idno type="PROQUEST">99860981</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860981e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113108)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E294[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The late proceedings of the Scottish army: as also the taking of Cannon Froome. Certified by an expresse from his Excellencies quarters the Earle of Leven, Lord Generall. Dated at Ludbury the 23. of Iuly 1645. Together with other letters from the Kings quarters to the generall and lieutenant-generall, and answers thereunto. Published by authority.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.B. for Robert Bostock, dwelling in Pauls Churchyard, at the signe of the Kings head.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>28. July. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Leven, Alexander Leslie, --  Earl of, 1580?-1661.</term>
+               <term type="corporate_name">Scotland. --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113108:1"/>
+            <p>The late PROCEEDINGS OF The Scottish Army: As also the taking of Cannon Froome.</p>
+            <p>Certified By an Expresse from his Excellencies Quarters the Earle of LEVEN, Lord Generall.</p>
+            <p>Dated at <hi>Ludbury</hi> the 23. of Iuly 1645.</p>
+            <p>Together with other Letters from the Kings Quarters to the Generall and Lieutenant-Generall, and Answers thereunto.</p>
+            <p>Published by Authority.</p>
+            <p>LONDON, Printed by <hi>M. B.</hi> for <hi>Robert Bostock,</hi> dwelling in Pauls Churchyard, at the signe of the Kings head. 28. July. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113108:2"/>
+            <pb n="1" facs="tcp:113108:2"/>
+            <head>The late Proceedings of the Scot<g ref="char:EOLhyphen"/>tish Army.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lord;</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">V</seg>Vpon Thursday the 17 of this instant, the Army marched from <hi>Droitwich</hi> to <hi>Bewdly,</hi> where they were forced to stay upon Sunday all day, for want of pro<g ref="char:EOLhyphen"/>visions to the Souldiers, and Draughts for the Cannon and Ammunition: It had bin the much nearer way, to have gone by <hi>Ʋpton;</hi> but the Committee of <hi>Worcester</hi> made us believe that Bridge could not be easily repaired, perswaded us to come this way to ease their own Quarters, and made many faire promises for assist<g ref="char:EOLhyphen"/>ance; but though they have continued with the Army a fortnight, they have never provided one Draught, but on the contrary, such as they imployed to that purpose, did take money from the Country people to free them from sending their Teemes, as was declared before the Generall in presence of that Committee, when the Country people were demanded the reason of their refusing to furnish Draughts to the Army. Upon Saturday the Army marched to <hi>Temberry,</hi> and stayed there on Sunday, being advertised that the Enemy was about <hi>Bishops Froome</hi> towards night; The Earle of <hi>Callender,</hi> L. Generall <hi>Lesley,</hi> and Major Generall <hi>Middleton</hi> went out with a party of 4500. Horse, Foot, and Dragoones, they marched all that night, and Munday all day in pursuit after them, but the Enemy still retreated before them. Upon Tuesday they came to <hi>Can<g ref="char:EOLhyphen"/>non Froome,</hi> by which they intended only to have passed, but the Earle of <hi>Calender</hi> having viewed the place upon all
+<pb n="2" facs="tcp:113108:3"/>Quarters, sent summons to the Governor Colonell <hi>Barnold</hi> to surrender it for the use of the King and Parliament, he returned a verball Answer by my Lords owne Drum<g ref="char:EOLhyphen"/>mer, That the command of it was intrusted to him by his Majesty, and that he would keep it for his use as long as he had a drop of blood in his body. <hi>Calender</hi> sent back the Drummer, and desired he would returne his Answer in writing, which he did accordingly, the Copy whereof is here inclosed: After receipt of his letter, the Lieut. Gene<g ref="char:EOLhyphen"/>rall having caused provide such necessaries as could be had in so short a time, gave order for storming the place. The Graffes were about nine foot deep, and as broad, and in most places full of water; The Works above the Graffes were so high, that all the Ladders we could get were too short; the Enemy behaved themselves valourously, but it pleased the Lord to give our Souldiers so much courage, that after a hot dispute they were beate from their works, after which they fled to the house, where they fought de<g ref="char:EOLhyphen"/>sperately, till a great part of them were killed. We lost about 16. and 24. are wounded; of the Enemy were killed about 70. Colonell <hi>Barnold</hi> deadly wounded, Captaine <hi>Briskoe,</hi> Capt. <hi>Houke,</hi> &amp; thirty others taken Prisoners. The Generall and Committee hath written to know the Par<g ref="char:EOLhyphen"/>liaments pleasure for a Governour and Garrison to put in it, and till order be taken for that purpose, have put in<g ref="char:EOLhyphen"/>to it 120. Foot and 20. Horse. The place hath been very hurtfull to the Country, and may be of good use now for their preservation. The Enemy halted about <hi>Rosse,</hi> to which place our party is marched after them, but they are now further retreated to <hi>Monmouth:</hi> The Army is now advanced from <hi>Bradyeard</hi> to <hi>Ludberry,</hi> with much dissi<g ref="char:EOLhyphen"/>culty, the waies are exceeding strait, and hard to passe on this side <hi>Severne,</hi> so that the Army is not able to march above eight miles a day, though they begin to march at
+<pb n="3" facs="tcp:113108:3"/>the Sun rising, and continue till ten at night, and the car<g ref="char:EOLhyphen"/>riages are so long in providing, that they are forced to drive all night; The Country is unwilling to afford us any thing, and the Committees gives us no assistance. When the Generall had sent Letters to the Committe of <hi>Glouce<g ref="char:EOLhyphen"/>ster</hi> for Provisions and Accommodation to the Army, they wrote back that they had presumed so much upon his Ex<g ref="char:EOLhyphen"/>cellencies patience, as to send to the Committee of both Kingdomes, to desire some other course might be taken for their Accommodation; as if his Excellencies patience could have satisfied the hungry bellies of so many thou<g ref="char:EOLhyphen"/>sand Souldiers. At this instant they have had no meat for two daies together, &amp; if their patience were not extraor<g ref="char:EOLhyphen"/>dinary, it were impossible to get them kept in a body: And I am very much troubled to consider, what way they shall be provided when they advance further into these Welch harrased Counties, after an Enemy that spoiles and wasts all where they come. When the Parliaments Commissio<g ref="char:EOLhyphen"/>ners shall come hither, I hope they will represent the ne<g ref="char:EOLhyphen"/>cessities of this Army, their willingnesse and readinesse to doe service, and the opportunities that are lost for want of necessary meanes of subsistance, and then I doubt not but care shall be taken for their maintenance, if there be a reall desire that their endeavours should be effectuall, and of ad<g ref="char:EOLhyphen"/>vantage to the Kngdome.</p>
+                  <p>The Governour of <hi>Hereford</hi> sent yesterday a letter to the Generall, with other two Letters from Sir <hi>William Fleming,</hi> one to his Excellency, and the other to the L. Generall the Earle of <hi>Calender,</hi> which with the Answers. were sent to be communicated to the Parliament. I have sent you the Copies here inclosed, and remaine</p>
+                  <closer>
+                     <signed>Your Lordships most hum<g ref="char:EOLhyphen"/>ble Servant.</signed>
+                     <dateline>Ludbury, <date>the 23. July 1645.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="4" facs="tcp:113108:4"/>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>YOu demand this House for the use of the King and Par<g ref="char:EOLhyphen"/>liameut; My Commission is by the King alone, and if I may see a Command under his Majesties hand, I shall with all willingnesse obey it, untill then I cannot give that accompt as is expected from me, nor will I resigne it upon any other conditions so long as I shall have life. Only I rest</p>
+                  <closer>
+                     <signed>Your servant. <hi>John Barnold.</hi>
+                     </signed>
+                     <dateline>Cannon Froome <date>22. July 1645.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>For the Lord Calendar.</trailer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Am required by my old friend Sir <hi>William Fleming</hi> to send my Trumpeter with these open Letters, desiring a safe Conduct to your Lordship, the which I could not deny, not doubting of his safe returne to me. So I remaine</p>
+                  <closer>
+                     <signed>Your Lordships humble servant <hi>B. Skudmoore.</hi>
+                     </signed>
+                     <dateline>Hereford <date>21. July 1645.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>For his Excellency the Generall of the Scottish Army.</trailer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Received by your Trumpetter a Letter from your selfe, and another from Sir <hi>William Fleming,</hi> desiring a safe Con<g ref="char:EOLhyphen"/>duct to this Army, which I could not grant, as I have shewed to himselfe, and with the Answers of both returne your Trum<g ref="char:EOLhyphen"/>peter. Remaining</p>
+                  <closer>
+                     <signed>Your loving friend <hi>Leven.</hi>
+                     </signed>
+                     <dateline>Ludbery <date>23. July 1645.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>For Sir <hi>Barnaby Skudmoore.</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="5" facs="tcp:113108:4"/>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>BEing very desirous to speake with my Ʋncle the Earle of <hi>Calender</hi> about some private businesse of mine owne; and conceiving also that I may be able to say somewhat to your Lordship worth your consideration in relation to the publike good; I shall esteeme my selfe obliged, if your Lord<g ref="char:EOLhyphen"/>ship please to favour me with a safe Conduct to wait upon you. Resting</p>
+                  <closer>
+                     <salute>My Lord,</salute>
+                     <signed>your Lordships humble servant <hi>William Fleming.</hi>
+                     </signed>
+                     <dateline>Hereford <date>the 21. July 1645.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>For his Excellency the Earle of <hi>Leven.</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Received your Letter, wherein you desire a safe Conduct to speake with the Earle of <hi>Calender</hi> about some private businesse of your owne, and with my selfe about the publike. whereto I returne this Answer, That upon good considerati<g ref="char:EOLhyphen"/>ons I cannot yeeld to your desires; nor doe I thinke it fit<g ref="char:EOLhyphen"/>ting that you, or any of your party, should repaire to this Army to speake with my selfe, or any else here, about the bu<g ref="char:EOLhyphen"/>sinesse of the publike, wherein if you have any thing to say worthy the consideration, you may follow the strait and pub<g ref="char:EOLhyphen"/>like way, applying your selfe to the Parliaments, or Commit<g ref="char:EOLhyphen"/>tees of both Kingdoms, and not make your addresse to me, who am not to speake or heare any thing of publike concern<g ref="char:EOLhyphen"/>ment, but what shall be recommended to me by them. I shall adde nothing, but remaine</p>
+                  <closer>
+                     <signed>Your loving friend <hi>Leven.</hi>
+                     </signed>
+                     <dateline>Ludberry <date>23. July 1645.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="6" facs="tcp:113108:5"/>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>HAving the honour of so neere relation to your Lordship, and being perswaded, that ever and above some private businesse of mine owne, I can impart somewhat to your Lord<g ref="char:EOLhyphen"/>ship, which if timously considered, might very much conduce jointly to the good of my Countrey, the Kings service, and the honour of our Nation. I have obtained permission to come over and speake with your Lordship, if you shall be pleased to procure me a safe Conduct, wherein you shall much oblige</p>
+                  <closer>
+                     <salute>My Lord,</salute>
+                     <signed>your Lordships humble servant, <hi>William Fleming.</hi>
+                     </signed>
+                     <dateline>Hereford <date>22 July 1645.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>For the right Honourable, the Earle of Calendar.</trailer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Nephew,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Received yours, and shall be ever willing to witnesse my interest to you, wherein I can be steadable in your owne particular and private businesse; but for these matters of publike concernment which you would communicate to mee, though your affection and judgement in these affaires hath not hitherto beene such as I would have desired, yet if now God hath given you better thoughts towards the good of his Cause and the peace of these Kingdoms; And that you doe really apply your selfe that way, I wish your discretion had carried you to have made your addresse to those, to whom matters of that kinde doe belong, namely, to the Parliaments of both Kingdoms, or their Committees, who will be very willing to heare of you what may tend to the glory of God, ho<g ref="char:EOLhyphen"/>nour of the King, and peace of the Kingdoms; all which, I am confident, are the desires of honest men: So of none more then</p>
+                  <closer>
+                     <signed>Your loving Ʋncle <hi>Calender.</hi>
+                     </signed>
+                     <dateline>Ludbury <date>23. July 1645.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>For his loving Nephew, Sir <hi>William Fleming.</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
